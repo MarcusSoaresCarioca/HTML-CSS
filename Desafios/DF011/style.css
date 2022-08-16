@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.conteudo1{
+    width: 400px;
+    height: 400px;
+}
+
+.conteudo2{
+    
+    width: 200px;
+    height: 200px;
+}
